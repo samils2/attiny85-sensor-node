@@ -45,7 +45,7 @@ I used through-hole components throughout so the board can be hand-soldered.
 | ATtiny85-20PU | DIP-8 microcontroller |
 | DIP-8 machined-pin socket | Lets the chip be removed and reprogrammed |
 | Alpha RD901F-40 potentiometer | Analog input |
-| 10 µF electrolytic capacitor | 
+| 10 µF electrolytic capacitor | Decoupling Capacitor
 | Pin headers | ISP programming header |
 | LEDs and resistors | 330, 1k, & 10k Ω |
 | USBasp programmer | For flashing (not part of the board) |
